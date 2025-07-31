@@ -14,16 +14,6 @@ The API exposes a `/search` endpoint which the Android app can call to get relev
 
 ---
 
-## Prerequisites
-
-- Python 3.9+  
-- Weaviate Cloud instance with `text2vec-openai` module enabled  
-- OpenAI API key  
-- Weaviate API key with proper roles  
-- AWS (or any Linux server) for deployment  
-
----
-
 ## Setup & Deployment
 
 ### 1. Clone the repo
