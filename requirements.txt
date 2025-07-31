@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 python-dotenv
 weaviate-client
+=======
+fastapi
+uvicorn
+python-dotenv
+weaviate-client
+>>>>>>> dd1fad9b86a05d2984b5760d8b8f0fd01e34a043
